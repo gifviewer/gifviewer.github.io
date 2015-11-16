@@ -11,7 +11,7 @@ body {
   height: 100%;
 }
 body {
-  font-family: 'Open Sans', arial, sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   color: #fff;
   font-size: 18px;
   -webkit-font-smoothing: antialiased;
@@ -731,7 +731,7 @@ select {
 }
 
 .promo {
-  background:#E75325;
+  background:#222222;
 }
 
 .promo .arrow-holder {
@@ -857,10 +857,10 @@ select {
   background: rgba(0, 0, 0, 0.4);
 }
 .promo .download-area .summary {
-  color: rgba(0, 0, 0, 0.4);
+  color: rgba(255, 255, 255, 0.4);
 }
 .promo .download-area .summary li {
-  font-weight: 600;
+  font-weight: 400;
   margin-bottom: 10px;
   font-size: 16px;
 }
@@ -868,10 +868,10 @@ select {
   margin-right: 5px;
 }
 .promo .download-area .summary a {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(255, 255, 255, 0.5);
 }
 .promo .download-area .summary a:hover {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(255, 255, 255, 0.5);
 }
 .promo .iphone-holder .owl-theme .owl-controls {
   margin-top: 95px;
@@ -938,7 +938,7 @@ select {
 .footer {
   padding-top: 30px;
   padding-bottom: 30px;
-  background: #E75325;
+  background: #222222;
   color: rgba(255, 255, 255, 0.6);
 }
 .footer a {
